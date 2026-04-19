@@ -4,7 +4,7 @@ Yeezus
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+We are creating a small and friendly robot pet for entertainment purposes. It dances, greets, and even plays songs! Carrying with it a visualizer screen for both songs and character animations, it has 4 legs and can execute complex movements.
 
 
 **📂 Repository Structure**
