@@ -1,6 +1,6 @@
 **Project Title**
 
-[Enter your project name here]
+Yeezus
 
 **📌 Project Overview**
 
@@ -28,4 +28,5 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Arnav Verma
+Swayam Tayalia
